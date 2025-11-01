@@ -1,4 +1,4 @@
-# 05-folder - React Project
+# Customer Segmentation UI
 
 A clean and responsive React + Tailwind CSS mini project showcasing a modern customer segmentation UI for a digital banking platform. The design visually represents different customer categories—Satisfied, Underserved, and Underbanked—using an elegant card-based layout. Built to demonstrate front-end design skills, layout precision, and component reusability in React.
 
